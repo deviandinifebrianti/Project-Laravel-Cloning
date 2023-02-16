@@ -27,6 +27,7 @@
         <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-gray-900 dark:text-white">This Project is Cloning By Hanif Naufal Rafandi.. Warning the file learning for laravel framework</h1>
             <p>Hai, I'm already learn laravel framework</p>
             <p>yes, i'm learn laravel</p>
+            <p>Hanif Naufal Rafandi / 2G / 14</p>
         </div>
     </div>
 </body>

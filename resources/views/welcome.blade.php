@@ -28,6 +28,7 @@
             <p>Hai, I'm already learn laravel framework</p>
             <p>yes, i'm learn laravel</p>
             <p>Hanif Naufal Rafandi / 2G / 14</p>
+            <p>Hai Dev</p>
         </div>
     </div>
 </body>

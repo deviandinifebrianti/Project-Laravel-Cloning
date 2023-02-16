@@ -24,7 +24,9 @@
 </head>
 <body class="antialiased">
     <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-        <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-gray-900 dark:text-white">This Project is Cloning By Hanif Naufal Rafandi.. Warning the file learning for laravel framework</h1></div>
+        <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-gray-900 dark:text-white">This Project is Cloning By Hanif Naufal Rafandi.. Warning the file learning for laravel framework</h1>
+            <p>Hai, I'm already learn laravel framework</p>
+        </div>
     </div>
 </body>
 </html>
